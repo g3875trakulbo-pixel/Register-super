@@ -1,8 +1,7 @@
 streamlit
 streamlit-webrtc
+opencv-python-headless
 mediapipe
-face_recognition
 numpy
-SpeechRecognition
 pandas
 av
