@@ -1,0 +1,8 @@
+streamlit
+streamlit-webrtc
+mediapipe
+face_recognition
+numpy
+SpeechRecognition
+pandas
+av
